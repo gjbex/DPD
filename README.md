@@ -36,7 +36,7 @@ we add or fix material.
 You can clone this repository using the following  command:
 
 ```bash
-$ git clone TODO
+$ git clone https://github.com/gjbex/DPD
 ```
 
 This will create a directory `DPD` that contains your clone of the
