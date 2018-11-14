@@ -14,5 +14,5 @@ respective directories.
 examples.  It contains bugs, but you don't need to fix them now, that
 is for one of the next weeks.
 
-So yes, it is intentionally buggy, but well, this is MOOC is about
+So yes, it is intentionally buggy, but well, this MOOC is about
 debugging after all.
