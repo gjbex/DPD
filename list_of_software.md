@@ -26,7 +26,12 @@ the virtual machine we provide.
   * valgrind 3.13.0
 
 ## Week 4
- It will be updated soon
+ 
+ * ARM Forge:
+ 
+   1. Got to [ARM Forge download](https://developer.arm.com/products/software-development-tools/hpc/downloads/download-arm-forge) and download the corresponding binary for your Linux distribution
+   2. Follow the User's Guide [Installation Instructions](https://developer.arm.com/docs/101136/latest/arm-forge/installation)
+   3.  Got to the Week 4 introduction step (4.1) and copy the text between the tags <License> and </License> (including the tags) in a file named `Licence` in the directory {ARM forge installation-directory}/licences. 
   
 ## Development tools
 
