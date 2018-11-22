@@ -7,6 +7,7 @@ the virtual machine we provide.
 ## Week 1
 
   * doxygen 1.8.13
+  * graphviz 
   * mkdocs
 
 ## Week 2
