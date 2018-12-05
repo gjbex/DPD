@@ -1,0 +1,17 @@
+node 1.1.2:     4.00000E+00
+tree:
+        1.000E+00, children:   3
+          2.000E+00, children:   2
+            3.000E+00, children:   0
+            4.000E+00, children:   0
+          5.000E+00, children:   0
+          6.000E+00, children:   1
+            7.000E+00, children:   0
+transformed tree:
+        2.000E+00, children:   3
+          3.000E+00, children:   2
+            4.000E+00, children:   0
+            5.000E+00, children:   0
+          6.000E+00, children:   0
+          7.000E+00, children:   1
+            8.000E+00, children:   0
