@@ -1,0 +1,16 @@
+tree:
+1.000, children: 3
+  2.000, children: 2
+    3.000, children: 0
+    4.000, children: 0
+  5.000, children: 0
+  6.000, children: 1
+    7.000, children: 0
+transformed tree:
+2.000, children: 3
+  3.000, children: 2
+    4.000, children: 0
+    5.000, children: 0
+  6.000, children: 0
+  7.000, children: 1
+    8.000, children: 0
